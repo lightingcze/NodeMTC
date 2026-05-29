@@ -68,6 +68,5 @@ Wiring diagram: `assets/wiring.png`.
 
 - Sketch: `NodeMTCBridge/NodeMTCBridge.ino`
 - Diagram: `NodeMTCBridge/assets/wiring.png`
-- <img width="1693" height="929" alt="wiring" src="https://github.com/user-attachments/assets/05c6d192-dcec-46b8-b33f-4482b23679e7" />
 - <img width="1011" height="799" alt="Web portal" src="https://github.com/user-attachments/assets/ba75cb69-7236-4292-9a17-c27338ad82ef" />
 
