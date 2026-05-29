@@ -7,6 +7,14 @@ Includes:
 - Configurable `Device name` (stored in LittleFS) for web UI + mDNS hostname
 - Web status UI (`/`) + JSON API (`/api/status`)
 
+## Documentation
+
+- `docs/PROJECT.md`
+- `docs/SETUP.md`
+- `docs/HARDWARE.md`
+- `docs/WEB_UI.md`
+- `docs/TROUBLESHOOTING.md`
+
 ## Hardware
 
 ### Recommended MIDI OUT wiring (reliable)
@@ -60,4 +68,3 @@ Wiring diagram: `assets/wiring.png`.
 
 - Sketch: `NodeMTCBridge/NodeMTCBridge.ino`
 - Diagram: `NodeMTCBridge/assets/wiring.png`
-
